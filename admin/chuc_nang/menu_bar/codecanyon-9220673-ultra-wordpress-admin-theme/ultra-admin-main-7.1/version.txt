@@ -1,0 +1,190 @@
+﻿Version 7.1 - 11th November 2016
+	UPDATE: Mod Rewrite / 404 options page issue solved.
+	UPDATE: Removed WordPress from Admin Page title
+	UPDATE: Woocommerce compatibility fixed
+	UPDATE: Improved CSS settings for Category tabs on add/edit post pages
+	UPDATE: Improved select boxes styling
+	UPDATE: data table row action buttons improved
+	UPDATE: Fixed page title add new button styling
+	ADDED: Minified plugin CSS file for faster speed and reduce page load time
+	UPDATE: Regenarated inbuilt theme files
+	UPDATE: faster google fonts loading by using latin version only
+	UPDATE: default system fonts recommended by wordpress loaded in plugin fonts
+	UPDATE: wordpress 4.6.1 compatible
+
+Version 6.4 - 13th September 2016
+	UPDATE: Mod Rewrite / 404 options page issue solved.
+	UPDATE: Improved CSS on plugin upload file page.
+	UPDATE: Added a minified version of CSS for faster page loading.
+	UPDATE: Removed page overlay effect on page loader for faster processing.
+	UPDATE: WordPress 4.6 compatible
+
+Version 6.3 - 14th April 2016
+	UPDATE: Login page option settings taking effect for WordPress 4.5
+	UPDATE: WordPress 4.5 plugin compatiblity
+	FIXED: Post/Page editor Top Bar Fixed Position on vertical scrolling
+	UPDATE: Login Page Logo issues fixed with WordPress 4.5
+
+Version 6.2 - 23rd March 2016
+	ADDED: Reset menu to original on deactivating and reactivating the plugin
+	FIXED: Content Box header background color issue with latest WordPress version
+
+Version 6.1 - 26th January 2016
+	UPDATE: Improved CSS throughout the theme
+
+Version 6.0 - 18th December 2015
+
+	UPDATE: Fixed Woocommerce Admin Menu Link Error
+	UPDATE: Improved CSS stylesheet
+	UPDATE: WordPress 4.4 Compatible
+	UPDATE: Option to restore plugin permissions on deactivating plugin on network activated plugin and single site plugin
+	UPDATE: Improved Responsive CSS
+	UPDATE: Regenerate all inbuilt theme CSS files
+	UPDATE: Improved login page Responsiveness
+
+Version 5.3 - 19th September 2015
+
+	UPDATE: WordPress 4.3 version compatiblility
+	UPDATE: Improved styling of buttons throughout plugin
+	ADDED: Option to show/hide Screen Options Tab and Help tab in upper right corner of admin panel
+	UPDATE: Fixed CSS related issues with some well known plugins
+
+Version 5.2 - 	20th July 15
+	ADDED: Feature to Reset all plugin permissions to original on deactivating plugin
+	UPDATE: Added some CSS overrides as suggested by customers
+	UPDATE: Mobile view CSS updates
+
+Version 5.1 - 25th June 15
+	UPDATE: Disabled AJAX SAVE in redux framework, to avoid error on few servers "There was problem with your action. Please try again".
+
+Version 5.0 - 24th June 2015
+	ADDED: 	3 new inbuilt themes
+	ADDED: Auto Update plugin ability using <a href="https://github.com/kasparsd/envato-automatic-plugin-update">envato-automatic-plugin-update</a> and <a href="https://github.com/envato/envato-wordpress-toolkit">envato-wordpress-toolkit</a>
+	FIXED: Jetpack plugin compatibility and CSS issues
+	ADDED: New theme import files 
+	FIXED: Minor CSS tweaks
+
+Version 4.3 - 4th June 2015
+
+	FIXED: Redux Framework conflict resolved with some themes using Redux Framework as plugin
+	FIXED: Logo position corrected when Admin Topbar is disabled
+	UPDATE: Footer version notification for the redux framework disabled. Needed for white label branding feature
+	UPDATE: Renamed plugin to ultra-admin from ultra-wp-admin to help plugins like hide my wordpress and similar addons.
+
+Version 4.2 - 27th April 2015
+
+	FIXED: Multisite Compatibility solved for logo, favicon, admin top bar and footer.
+	FIXED: Multisite compatibility for Login Page related issues.
+	ADDED: WordPress 4.2 compatible
+	ADDED: Default theme style in main plugin CSS file.
+	ADDED: Newly generated inbuilt theme files baesed on WordPress 4.2 version compatibility
+
+
+Version 4.1 - 11th April 2015
+
+	ADDED: network active, single site and individual sites mode menu management functionality added
+	FIXED: array_flip() error sorted in menu management addon
+	FIXED: Menu Management addon related issues when menu items are added or removed by external plugins
+	FIXED: Sorted save button was shown only inner sites in a network
+	UPDATE: Plugin permissions page set for all three modes - single site, network active and individual sites mode
+	ADDED: New option to show original menu to administrator or super admin user and edited menu to other users.
+
+
+Version 4.0 - 7th April 2015
+	FIXED: Multisite Compatibility issues. Multisite mode, Single site mode and Network active mode of the plugin - all issues and criterias taken care.
+	UPDATE: Options panel (Redux Framework) updated to 3.5.x.x
+	ADDED: Import/Export Inbuilt Theme files added in the package. Now inbuilt themes can be edited from the options.
+	UPDATE: Inbuilt Themes CSS files
+	UpDATE: Plugin Permissions to Plugin Settings Page. Plugin Permissions are network wide now.
+
+
+Version 3.1 - 18th February 2015
+
+	ADDED: Option to Apply One Ultra Admin Theme on all sites from one place (on a multisite network). A multisite compatibility addon feature.
+	FIXED: Minor typo mistakes
+
+
+Version 2.1.3 - 29th January 2015
+
+	FIXED: Sortable Js conflict issue
+
+
+Version 2.1.2 - 22nd January 2015
+
+	ADDED: Enable / Disable admin theme on admin pages option (As per request).
+	ADDED: Enable / Disable admin theme on login page only option (As per request).
+
+
+Version 2.1.1 - 21st January 2015
+
+	Fixed: Menu Management sortable error issue
+	ADDED: Option to disable Menu management addon
+	ADDED: Admin menu editor Pro - Toolbar Addon Compatibility
+
+Version 2.1 - 23rd Dec 2014
+
+	IMPROVED: Footer URL links default style
+	ADDED: External URL support for image URL in options panel
+	FIXED: Revolution Slider CSS issues
+	FIXED: Visual Composer CSS issues
+	FIXED: WooCommerce CSS issues
+	FIXED: box-sizing:border-box CSS compatibility with other plugins
+	FIXED: jQuery Custom UI issues through out the plugin
+	ADDED: Custom Login Page logo title option
+	ADDED: Wordfence security plugin compatibility
+	ADDED: Reset Admin Menu to original feature button in Menu Management Addon
+	ADDED: Ithemes Security (better WP Security) plugin Compatibility
+	ADDED: WordPress 4.1 Compatibility
+
+
+
+Version 2.0 - 11th Dec 2014
+
+	Added: Rename Menu and Submenu items  (White Label Branding Addon).
+	Added: Change Menu icon for menu items (White Label Branding Addon).
+	Added: Reorder Menu and Submenu items using drag and drop module (White Label Branding Addon).
+	Added: Enable/Disable Menu and Submenu items in the main menu  (White Label Branding Addon).
+	Added: Show/Hide Node ids from Top bar. This helps is removing any unwanted link from top bar.
+	Added: Ability to show menu in different cases like uppercase, lowercase, capitalize or show original.
+	Added: Customize Footer Text for branding needs.
+	Added: Show/Hide WordPress Version information in footer.
+	Added: Show/Hide Login Page forgot password and back to site links.
+	Added: Show/Hide Direct Logout link in top bar option.
+	Added: Show/Hide Top bar My account menu option.
+	Added: Change Greeting word Howdy to any word option.
+	Added: Image Thumbs for Inbuilt Themes in Plugin demo option.
+	Fixed: Sorted plugin conflicts with the standard theme customiser.
+	Fixed: Login logo URL link is now same as inner logo url.
+	Fixed: Removed extra space at bottom code (as per request).
+	Fixed: Logo options for inbuilt themes are hidden now. To change logo in inbuilt themes, you need to change the logo file on server.
+	Fixed: Admin top bar links (enable/disable) control on front end. Control which links to show/hide in top bar.
+	Fixed: Version typo - New version is 2.0
+
+
+Version 1.2 - 22 Nov 2014
+
+	Added: Permission Management ADDON for super admin user, administrator user and any specific user.
+	Added: Admin Menu Editor Pro Plugin Compatibility
+	Added: Show ultra admin plugin on plugin page list for a user.
+	Added: Custom CSS option to add any css style throughout admin panel.
+	Added: Logo URL feature added for redirection to specified url.
+	Fixed: Few UI CSS issues
+	Added: New example demo theme - No 31
+
+
+Version 1.1 - 29 Oct 2014
+
+	Added: Multisite compatibility
+	Added: Enable / disable custom login screen option
+	Added: RTL mode stylesheet
+	Added: Disable default admin color scheme picker
+	Added: Show/Hide top bar links like wordpress, site, add new, comments.
+	Fixed: Imporved Inbuilt themes
+	Fixed: Button onclick bounce issue
+	Improved: Responsive login screen for small devices
+	Fixed: Logo path issues in inbuilt themes
+	Fixed: CSS bugs and issues in theme
+	Fixed media library CSS bugs
+
+
+Version 1.0 - Initial Release - 20 Oct 2014

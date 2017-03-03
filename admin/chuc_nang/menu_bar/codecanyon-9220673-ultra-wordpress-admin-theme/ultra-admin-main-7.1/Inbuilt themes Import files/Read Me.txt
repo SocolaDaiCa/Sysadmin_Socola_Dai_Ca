@@ -1,0 +1,11 @@
+Files in this folder are import files for inbuilt plugin themes for Ultra WordPress Admin Theme.
+
+You can preview any of this theme in action by selecting the inbuilt theme form Ultra Admin -> Pick Layout Tab to choose your theme.
+
+After chooosing your theme, if you want to edit the inbuilt theme, then just import content of respective file (from this folder) under Ultra Admin -> Import/Export Tab.
+
+Hit Save Changes.
+
+Your inbuilt theme then should be ready for editing.
+
+Thank You.
